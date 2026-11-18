@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pptx
+*.pptm
+*.opju
+*.opj
+*.png
+*.jpg
+*.jpeg
+*.emf
+*.wmf
+*.log
